@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GuilVitor/Calculadora2/static/css/main.b5ff6426.css",
+    "main.js": "/GuilVitor/Calculadora2/static/js/main.bf4d6daf.js",
+    "index.html": "/GuilVitor/Calculadora2/index.html",
+    "main.b5ff6426.css.map": "/GuilVitor/Calculadora2/static/css/main.b5ff6426.css.map",
+    "main.bf4d6daf.js.map": "/GuilVitor/Calculadora2/static/js/main.bf4d6daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ff6426.css",
+    "static/js/main.bf4d6daf.js"
+  ]
+}
