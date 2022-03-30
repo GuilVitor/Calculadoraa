@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GuilVitor/Calculadora2/static/css/main.b5ff6426.css",
-    "main.js": "/GuilVitor/Calculadora2/static/js/main.bf4d6daf.js",
-    "index.html": "/GuilVitor/Calculadora2/index.html",
-    "main.b5ff6426.css.map": "/GuilVitor/Calculadora2/static/css/main.b5ff6426.css.map",
-    "main.bf4d6daf.js.map": "/GuilVitor/Calculadora2/static/js/main.bf4d6daf.js.map"
+    "main.css": "/GuilVitor/React-Calculadora./static/css/main.b5ff6426.css",
+    "main.js": "/GuilVitor/React-Calculadora./static/js/main.bf4d6daf.js",
+    "index.html": "/GuilVitor/React-Calculadora./index.html",
+    "main.b5ff6426.css.map": "/GuilVitor/React-Calculadora./static/css/main.b5ff6426.css.map",
+    "main.bf4d6daf.js.map": "/GuilVitor/React-Calculadora./static/js/main.bf4d6daf.js.map"
   },
   "entrypoints": [
     "static/css/main.b5ff6426.css",
